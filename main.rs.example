@@ -1,0 +1,7 @@
+//CONSTANTS
+
+PIN_LIST [12345,56789]
+EMAIL_SMTP_HOST smtp.example.com
+EMAIL_SENDER unlocked-track <unlocked-track@example.com>
+EMAIL_DESTINATION Cybersecurity <cybersecurity@example.com>
+EMAIL_SUBJECT unlocked-track
